@@ -1,0 +1,1 @@
+Run `docker build -t csharpier-test:latest` to replicate issues.

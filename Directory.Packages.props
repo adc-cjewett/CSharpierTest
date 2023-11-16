@@ -1,5 +1,5 @@
 <Project>
   <ItemGroup>
-    <PackageVersion Include="CSharpier.MsBuild" Version="0.24.2" />
+    <PackageVersion Include="CSharpier.MsBuild" Version="0.26.2" />
   </ItemGroup>
 </Project>
